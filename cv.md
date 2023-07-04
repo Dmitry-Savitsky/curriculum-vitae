@@ -4,3 +4,9 @@
 
 * *Junior Frontend Developer*
 * *Junior C#  Developer*
+
+********** 
+> ##### Contact information:
+* [*Discord*](https://discord.gg/kQe9WnwC "что происходит#2300")
+* [*Telegram*](https://t.me/wwwwww2222222 "@wwwwww2222222")
+* [*VK*](https://vk.com/id679809661 "Дмитрий Савицкий")
