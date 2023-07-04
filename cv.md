@@ -21,3 +21,19 @@
 * C#
 * VS Code, Visual Studio
 * Adobe Photoshop, Premiere, Figma
+
+*********
+> ##### Code example:
+```javascript
+function multiplication (a, b) {
+  let x = a * b;
+  return x;
+}
+```
+```javascript
+function division (a, b) {
+  let x = a / b;
+  return x;
+}
+```
+> ##### English level: B1
