@@ -10,3 +10,14 @@
 * [*Discord*](https://discord.gg/kQe9WnwC "что происходит#2300")
 * [*Telegram*](https://t.me/wwwwww2222222 "@wwwwww2222222")
 * [*VK*](https://vk.com/id679809661 "Дмитрий Савицкий")
+
+*********
+> ##### About myself:
+*I am a student and passionate about programming. I am confident in my programming skills and constantly improve them by learning new technologies and tools. I am ready for new challenges and always strive for excellence in my work.*
+*********
+> ##### Skills and Proficiency:
+* HTML, CSS Basics
+* JavaScript Basics
+* C#
+* VS Code, Visual Studio
+* Adobe Photoshop, Premiere, Figma
