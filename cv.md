@@ -1,39 +1,38 @@
 # Dmitry Savitsky
 
-![avatar](https://sun9-25.userapi.com/impg/ViITHFzr2HD2kofiL9nppzjvNkJ2jpNFbBuZTQ/J1IQIlywspg.jpg?size=900x900&quality=96&sign=e0c2f3bd44ee689ea55256e85f55fdcb&type=album)
+![avatar](https://sun9-68.userapi.com/impg/vxZS6rzarE_N2MzYeNwbzSKYQYcKwk3Mm1S9LQ/n-zTXegnPzw.jpg?size=1101x801&quality=96&sign=cb85592e734075d590e8d07894845740&type=album)
 
-* *Junior Frontend Developer*
-* *Junior C#  Developer*
+* *.NET  Developer*
+
 
 ********** 
 > ##### Contact information:
-* [*Discord*](https://discord.gg/kQe9WnwC "что происходит#2300")
-* [*Telegram*](https://t.me/wwwwww2222222 "@wwwwww2222222")
+* [*Telegram*](https://t.me/ID11119 "@ㅤ")
 * [*VK*](https://vk.com/id679809661 "Дмитрий Савицкий")
+* [*Gmail*](dmsw0rk333@gmail.com "Dmitry Savitsky")
 
 *********
 > ##### About myself:
-*I am a student and passionate about programming. I am confident in my programming skills and constantly improve them by learning new technologies and tools. I am ready for new challenges and always strive for excellence in my work.*
+*Мои приоритеты направлены на получение новых навыков и опыта. Своей главной целью я ставлю сужение круга изучаемых технологий до тех, которые потребуются на стажировке и после неё, и вследствии становление более продвинутым специалистом в определенной сфере.*
 *********
-> ##### Skills and Proficiency:
-* HTML, CSS Basics
-* JavaScript Basics
-* C#
-* VS Code, Visual Studio
-* Adobe Photoshop, Premiere, Figma
+> ##### Skills:
+* .NET (без фреймворков)
+* HTML, CSS, JS basics
+* SQL
+*********
+> ##### Experience:
+* React-JS CyberPhysicalLab (курсы в универе, не окончен)
+* Разработка базы данных для сайта бронирования экскурсий (курсовой проект)
+* RS school (JS / FRONT-END) (не окончен)
+* Разработка игрового сервера GTA-V
+* Создание игры с использованием C#-Unity
+* .NET course 2021
 
 *********
-> ##### Code example:
-```javascript
-function multiplication (a, b) {
-  let x = a * b;
-  return x;
-}
-```
-```javascript
-function division (a, b) {
-  let x = a / b;
-  return x;
-}
-```
+
+> ##### Education:
+*Незаконченное высшее (Белорусско-Российский университет - Автоматизированные системы обработки информации 2 курс)*
+*********
 > ##### English level: B1
+
+> ##### Age: 19
